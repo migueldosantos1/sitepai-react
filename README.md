@@ -1,2 +1,4 @@
 # sitepai-react
-Site para demonstrar projetos em React.
+
+# to start the server
+# npm run dev
